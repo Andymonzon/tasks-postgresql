@@ -1,0 +1,15 @@
+.my-cursor{
+    z-index: 999;
+}
+
+@media screen and (min-width: 320px) {
+    .my-cursor{
+        display: none !important;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .my-cursor{
+        display: flex !important;
+    }
+}

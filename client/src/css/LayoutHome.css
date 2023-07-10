@@ -1,0 +1,17 @@
+.hoja {
+    box-shadow: 0 0 0 2px #ebebeb, 0 0 0 5px #dbdbdb, 0 0 0 15px;
+}
+
+.lineas-libreta {
+    box-shadow: 0 32px, 0 64px, 0 96px, 0 128px, 0 160px, 0 192px, 0 224px,
+        0 256px, 0 288px, 0 320px, 0 352px, 0 384px, 0 416px, 0 448px;
+}
+
+.circulo-dentro {
+    box-shadow: 0 64px, 0 128px, 0 192px, 0 256px, 0 320px, 0 384px;
+}
+
+.anillo-dentro {
+    box-shadow: 0 64px, 0 128px, 0 192px, 0 256px, 0 320px, 0 384px;
+}
+

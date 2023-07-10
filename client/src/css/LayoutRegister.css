@@ -1,0 +1,14 @@
+.libreta {
+    box-shadow: 7px 7px #fff, 12px 12px #ebebeb, 17px 17px #dbdbdb,
+        22px 22px #0000002b;
+}
+
+.circulo {
+    box-shadow: 0 50px, 0 100px, 0 150px, 0 200px, 0 250px, 0 300px, 0 350px,
+        0 400px, 0 450px;
+}
+
+.anillo {
+    box-shadow: 0 50px, 0 100px, 0 150px, 0 200px, 0 250px, 0 300px, 0 350px,
+        0 400px, 0 450px;
+}
